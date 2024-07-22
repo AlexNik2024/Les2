@@ -1,0 +1,13 @@
+
+body{
+  background-color: azure;
+}
+
+div.test {
+  background: #88a5bd;
+  width: 900px;
+  height: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+
